@@ -10,7 +10,7 @@ function Navbar(props) {
       <>
       <div className={styles.nav}>
         
-      <div className={styles.title}>FilmSafari</div>
+      <div className={styles.title}>Film-Safari</div>
         
         <div className={styles.cartIconContainer}>
             <img className={styles.cartIcon} 
