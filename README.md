@@ -12,7 +12,7 @@ FilmSafari is a movie rendering website designed to provide users with an immers
 - **Responsive Design**: Enjoy seamless browsing and viewing experiences across various devices.
 
 ## FilmSafari Website Preview 
-
+https://github.com/Paramhans-Singh/FilmSafari/assets/101575816/2431bed4-a454-42d8-9845-3038a54c0f08
 
 ## Usage
 
